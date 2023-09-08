@@ -1,0 +1,25 @@
+{
+  "name": "tasks-list",
+  "version": "1.0.0",
+  "description": "CRUD operations on TASKS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dharansh-Neema/Tasks.git"
+  },
+  "author": "Dharansh Neema",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dharansh-Neema/Tasks/issues"
+  },
+  "homepage": "https://github.com/Dharansh-Neema/Tasks#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.5.0"
+  }
+}
