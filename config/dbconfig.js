@@ -10,4 +10,4 @@ function dbconfig() {
       process.exit(1);
     });
 }
-module.exports = dbconfig();
+module.exports = dbconfig;
